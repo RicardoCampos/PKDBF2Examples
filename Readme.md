@@ -1,0 +1,1 @@
+A few examples of PKDBF2 hashing in .Net using SHA1, SHA256 and SHA512.
